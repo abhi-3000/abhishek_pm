@@ -175,7 +175,7 @@ export const caseStudyProjects = {
     },
 
     impact: [
-      { title: "Client Onboarding", value: "158" },
+      { title: "Client Onboarding", value: "52" },
       { title: "Revenue Success", value: "30%" },
       { title: "Admin Reduction", value: "70%" }
     ],
@@ -209,7 +209,7 @@ export const projectsData = [
     problem: "Manual tracking of GST and ITR filings was creating bottlenecks for the consultancy firm.",
     solution: "Developed role based dashboards for clients and admins to automate document collection and tracking.",
     impact: "Reduced administrative overhead and improved client transparency through real time tracking.",
-    tech: ["MERN Stack", "Tailwind CSS"],
+    tech: ["MERN", "Market Research", "GTM Strategy","Product thinking","Market Research", "Feature Prioritization"],
     liveLink: "https://nk-zeta-fawn.vercel.app/", 
     detailsLink: "/project/nk-consultancy", 
     accent: "#8b1c06ff",
@@ -222,7 +222,7 @@ export const projectsData = [
     problem: "Existing platforms were too complex and expensive for hosting small scale localized events.",
     solution: "Created a lightweight mobile first ticketing flow with easy event creation.",
     impact: "Empowered local creators to host and monetize events with minimal friction.",
-    tech: ["React.js", "Node.js", "Mongodb","Tailwind CSS"],
+    tech: ["UX principles", "Mobile-first design patterns","Product Thinking","Feature Prioritization","MERN"],
     liveLink: "https://tap-in-kappa.vercel.app/",
     detailsLink: "/project/tapin",
     accent: "#8b1c06ff" 
@@ -234,7 +234,7 @@ export const projectsData = [
     problem: "Manual hiring is slow, inconsistent, and hard to scale.",
     solution: "AI platform for automated resume parsing and objective candidate evaluations.",
     impact: "Accelerated screening speed by 70% with standardized, data-driven results.",
-    tech: ["React", "TypeScript", "Vercel", "Gemini API"],
+    tech: ["Next.ts", "Vercel", "Gemini API", "User interview techniques", "Usability testing basics", "Information architecture", "Accessibility basics"],
     liveLink: "https://apex-hire-8pej0evvr-abhishek-mandals-projects-e004a46c.vercel.app/",
     detailsLink: "/project/apex-hire",
     accent: "#8b1c06ff"
@@ -246,7 +246,7 @@ export const projectsData = [
     problem: "Professors spent excessive time manually updating and calculating student attendance records.",
     solution: "Built a bulk student upload feature and an intuitive tracking interface.",
     impact: "Saved hours of administrative work weekly and provided students with instant visibility into their metrics.",
-    tech: ["React", "Node.js", "PostgreSQL", "Tailwind CSS"],
+    tech: ["PERN","Product thinking", "Product Roadmap"],
     liveLink: "https://attendo-chi.vercel.app/",
     detailsLink: "/project/attendo",
     accent: "#8b1c06ff" 
