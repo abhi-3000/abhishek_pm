@@ -61,7 +61,7 @@ export const experienceData = [
   logoUrl: bw,
   role: "SDE Intern",
   duration: "Jan 2025 - Present",
-  location: "Onsite",
+  location: "Gurugram, Haryana",
   description: [
     "Conducted user research with in-house practitioners, mapped EMR workflows, and authored a detailed PRD defining problem statements, solutions, and success metrics; led the implementation of a contextual recommendation engine on historical prescription data, reducing EMR entry time by ~80 seconds per session and improving practitioner throughput.",
     "Identified fragmentation across consultation, medicine, and procedure billing flows and led end-to-end product development of a unified packages-based billing system—defining requirements, designing data architecture and service-mapping logic, and iterating UI flows cross-functionally—reducing operational complexity by ~30–35%.",
