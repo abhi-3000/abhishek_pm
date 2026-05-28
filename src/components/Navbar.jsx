@@ -24,7 +24,7 @@ const socialLinks = [
     label: "GitHub",
   },
   {
-    href: "http://www.linkedin.com/in/abhishek-mandal-274475271/",
+    href: "https://www.linkedin.com/in/abhishek-mandal-a25970411/",
     icon: <FaLinkedin size={20} />,
     label: "LinkedIn",
   },
